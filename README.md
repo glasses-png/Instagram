@@ -1,22 +1,11 @@
-# insta-lite
+# Instagram
 
->[Owiti-Charles](https://github.com/Owiti-Charles)  
+# Author 
+Charlotte Chelang'at
   
 # Description  
 This is a clone of  Instagram where people share their  images and videos for other users to view. 
 Users can sign up, login, view and post photos, search and follow other users.
-##  Live Link  
- Click [View Site](https://instalite.herokuapp.com/)  to visit the site
-  
-## Screenshots 
-###### Home page
- 
-<img src="https://raw.githubusercontent.com/Owiti-Charles/insta-lite/master/static/images/instagram.png">
- 
- ###### user profile
- <img src="https://raw.githubusercontent.com/Owiti-Charles/insta-lite/master/static/images/profile.png"> 
-
-
  
 ## User Story  
   
@@ -33,15 +22,15 @@ To get the project .......
   
 ##### Cloning the repository:  
  ```bash 
- https://github.com/Owiti-Charles/insta-lite.git 
+ https://github.com/glasses-png/Instagram.git
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
-cd insta-lite pip install -r requirements.txt 
+cd instagram
 ```
 ##### Install and activate Virtual  
  ```bash 
-- python3 -m venv virtual - source virtual/bin/activate  
+- python3 -m venv virtual - source venv/bin/activate  
 ```  
 ##### Install Dependencies  
  ```bash 
@@ -73,18 +62,16 @@ Open the application on your browser `127.0.0.1:8000`.
   
 ## Technology used  
   
-* [Python3.6](https://www.python.org/)  
-* [Django 1.11](https://docs.djangoproject.com/en/2.2/)  
-* [Heroku](https://heroku.com)  
+* Python3.6
+* Django 2.2.6
+* Heroku
   
   
 ## Known Bugs  
 * There are no known bugs currently but pull requests are allowed incase you spot a bug  
   
 ## Contact Information   
-If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]  
+If you have any question or contributions, please email me at [cchelangat16@gmail.com]  
   
-## License 
-
-* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/Owiti-Charles/Picture-Globe/blob/master/LICENSE)  
-* Copyright (c) 2019 **Owiti Charles**
+## License  
+* Copyright (c) 2020 **Charlotte Chelang'at**
