@@ -1,4 +1,4 @@
-#!/home/charlotte/Documents/insta-lite/venv/bin/python
+#!/home/charlotte/Documents/instagram/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
